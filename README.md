@@ -17,8 +17,12 @@ asfdaggq34ewf
 
 adgagav
 
+<<<<<<< HEAD
 fdddcv
 
 hhhhhhh
 
 new
+=======
+fdddcv
+>>>>>>> parent of 1e73136... 111
