@@ -7,6 +7,7 @@ int main()
     
     printf("ddd");
     int b;
+int c;
     return 0;
 }
 
