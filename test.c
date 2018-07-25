@@ -6,6 +6,7 @@ int main()
     printf("hello tinker");
     
     printf("ddd");
+    int b;
     return 0;
 }
 
